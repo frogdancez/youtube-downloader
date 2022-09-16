@@ -3,4 +3,5 @@
 
 
 
- ##### _something was change on Youtube so module streams of pytube doesn't working (I will fix it later)_
+ ##to make a exe file
+ pyinstaller.exe --icon=logo.ico -F --noconsole yt.py
