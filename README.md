@@ -3,5 +3,5 @@
 
 
 
- ##to make a exe file
+ ## to make a exe file
  pyinstaller.exe --icon=logo.ico -F --noconsole yt.py
