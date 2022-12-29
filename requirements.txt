@@ -1,8 +1,8 @@
-﻿altgraph==0.17.2
-future==0.18.2
-pefile==2021.9.3
+﻿altgraph
+future
+pefile
 Pillow
-pyinstaller==4.7
-pyinstaller-hooks-contrib==2021.5
+pyinstaller
+pyinstaller-hooks-contrib
 pytube
-pywin32-ctypes==0.2.0
+pywin32-ctypes
